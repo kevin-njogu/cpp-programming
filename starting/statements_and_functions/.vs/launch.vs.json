@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "statements_and_functions.exe (statements_and_functions\\statements_and_functions.exe)",
+      "name": "statements_and_functions.exe (statements_and_functions\\statements_and_functions.exe)"
+    }
+  ]
+}

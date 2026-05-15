@@ -1,0 +1,5 @@
+C:/Users/Kevin/Downloads/cpp-programming/starting/statements_and_functions/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/starting/statements_and_functions/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/starting/statements_and_functions/out/build/x64-debug/statements_and_functions/CMakeFiles/statements_and_functions.dir
+C:/Users/Kevin/Downloads/cpp-programming/starting/statements_and_functions/out/build/x64-debug/statements_and_functions/CMakeFiles/edit_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/starting/statements_and_functions/out/build/x64-debug/statements_and_functions/CMakeFiles/rebuild_cache.dir
