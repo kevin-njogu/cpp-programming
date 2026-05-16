@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "decimal_integers.exe (decimal_integers\\decimal_integers.exe)",
+      "name": "decimal_integers.exe (decimal_integers\\decimal_integers.exe)"
+    }
+  ]
+}

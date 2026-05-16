@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "fractional_numbers.exe (fractional_numbers\\fractional_numbers.exe)",
+      "name": "fractional_numbers.exe (fractional_numbers\\fractional_numbers.exe)"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:/Users/Kevin/Downloads/cpp-programming/starting/decimals_integers/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/starting/decimals_integers/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/starting/decimals_integers/out/build/x64-debug/decimals_integers/CMakeFiles/decimals_integers.dir
+C:/Users/Kevin/Downloads/cpp-programming/starting/decimals_integers/out/build/x64-debug/decimals_integers/CMakeFiles/edit_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/starting/decimals_integers/out/build/x64-debug/decimals_integers/CMakeFiles/rebuild_cache.dir
