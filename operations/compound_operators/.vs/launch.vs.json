@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "compound_operators.exe (compound_operators\\compound_operators.exe)",
+      "name": "compound_operators.exe (compound_operators\\compound_operators.exe)"
+    }
+  ]
+}

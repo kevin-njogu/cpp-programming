@@ -1,0 +1,5 @@
+C:/Users/Kevin/Downloads/cpp-programming/operations/output_formatting/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/operations/output_formatting/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/operations/output_formatting/out/build/x64-debug/output_formatting/CMakeFiles/output_formatting.dir
+C:/Users/Kevin/Downloads/cpp-programming/operations/output_formatting/out/build/x64-debug/output_formatting/CMakeFiles/edit_cache.dir
+C:/Users/Kevin/Downloads/cpp-programming/operations/output_formatting/out/build/x64-debug/output_formatting/CMakeFiles/rebuild_cache.dir
