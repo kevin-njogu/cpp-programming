@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+
+# Build folders
+out/
+build/
+x64-debug/
+x64-release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Ninja
+.ninja_log
+.ninja_deps
+
+# Executables
+*.exe
+*.obj
+*.pdb
+*.ilk

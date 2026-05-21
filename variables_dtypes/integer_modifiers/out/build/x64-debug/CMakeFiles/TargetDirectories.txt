@@ -1,5 +1,0 @@
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/integer_modifiers/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/integer_modifiers/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/integer_modifiers/out/build/x64-debug/integer_modifiers/CMakeFiles/integer_modifiers.dir
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/integer_modifiers/out/build/x64-debug/integer_modifiers/CMakeFiles/edit_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/integer_modifiers/out/build/x64-debug/integer_modifiers/CMakeFiles/rebuild_cache.dir

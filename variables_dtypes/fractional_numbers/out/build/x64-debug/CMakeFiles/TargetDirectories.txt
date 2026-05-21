@@ -1,5 +1,0 @@
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/fractional_numbers/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/fractional_numbers/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/fractional_numbers/out/build/x64-debug/fractional_numbers/CMakeFiles/fractional_numbers.dir
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/fractional_numbers/out/build/x64-debug/fractional_numbers/CMakeFiles/edit_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/variables_dtypes/fractional_numbers/out/build/x64-debug/fractional_numbers/CMakeFiles/rebuild_cache.dir

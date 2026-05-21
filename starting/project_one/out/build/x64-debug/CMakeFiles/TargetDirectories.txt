@@ -1,5 +1,0 @@
-C:/Users/Kevin/Downloads/cpp-programming/starting/project_one/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/starting/project_one/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/starting/project_one/out/build/x64-debug/project_one/CMakeFiles/project_one.dir
-C:/Users/Kevin/Downloads/cpp-programming/starting/project_one/out/build/x64-debug/project_one/CMakeFiles/edit_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/starting/project_one/out/build/x64-debug/project_one/CMakeFiles/rebuild_cache.dir

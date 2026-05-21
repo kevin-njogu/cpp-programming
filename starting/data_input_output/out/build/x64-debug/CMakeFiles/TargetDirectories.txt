@@ -1,5 +1,0 @@
-C:/Users/Kevin/Downloads/cpp-programming/starting/data_input_output/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/starting/data_input_output/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/starting/data_input_output/out/build/x64-debug/data_input_output/CMakeFiles/data_input_output.dir
-C:/Users/Kevin/Downloads/cpp-programming/starting/data_input_output/out/build/x64-debug/data_input_output/CMakeFiles/edit_cache.dir
-C:/Users/Kevin/Downloads/cpp-programming/starting/data_input_output/out/build/x64-debug/data_input_output/CMakeFiles/rebuild_cache.dir
